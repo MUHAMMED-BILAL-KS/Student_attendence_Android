@@ -1,7 +1,7 @@
 # Student_attendence_Android<br>
 Its An Android App Made With React Native For Student Attendence Marking <br>
 
-# ScreenShots<br>
+# ScreenShots
 --------------<br>
 
 # Home<br>
