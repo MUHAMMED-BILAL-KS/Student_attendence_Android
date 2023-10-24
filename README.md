@@ -6,7 +6,7 @@ Its An Android App Made With React Native For Student Attendence Marking
 
 # Home
 ![Screenshot_2023-10-24-22-08-41-32_f73b71075b1de7323614b647fe394240](https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/3e78c350-9aed-480c-9ca0-387b3b99d29f)
-<img src="[https://your-image-url.type](https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/3e78c350-9aed-480c-9ca0-387b3b99d29f)" width="100" height="100">
+<img src="https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/3e78c350-9aed-480c-9ca0-387b3b99d29f" width="200" />
 
 # INSERT Student
 ![Screenshot_2023-10-24-21-53-07-31_f73b71075b1de7323614b647fe394240](https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/abb73f87-f750-4f26-87b0-ce4d5ffd4841)
