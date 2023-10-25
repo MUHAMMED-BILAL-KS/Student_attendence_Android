@@ -12,7 +12,7 @@ Its An Android App Made With React Native For Student Attendence Marking <br>
 
 ## ATTENDENCE Page<br>
 <img src="https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/91eb6ac2-ed34-46e0-b22a-5bc95022b936" width="200" /><br>
-### You can edit the attendence of any date by selecting thhe date on the bottom and mark attendence (default date will be present date)
+### You can edit the attendence of any date by selecting the date on the bottom and mark attendence (default date will be present date)
 ### Here There Are 2 Options <br>
 <img src="https://github.com/MUHAMMED-BILAL-KS/Student_attendence_Android/assets/112198429/50c07a63-b86d-4e54-8690-f33aef99ffa5" width="200" /><br>
 ### ->Present(Marks the student as present) <br>
