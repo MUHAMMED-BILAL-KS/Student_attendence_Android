@@ -4,6 +4,7 @@ Its An Android App Made With React Native For Marking Student Attendence <br>
 ->Face Recognition<br>
 ->Email Sending To Students That Are Present<br>
 ->Download Attendence Sheet Of Given Date<br>
+
 (Under Devolopment)<br>
 
 # ScreenShots
