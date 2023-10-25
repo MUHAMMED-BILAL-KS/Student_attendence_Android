@@ -1,5 +1,9 @@
 # Student_attendence_System_For_Android<br>
 Its An Android App Made With React Native For Marking Student Attendence <br>
+## Later The App Will Be Updated With,<br>
+->Face Recognition<br>
+->Email Sending To Students That Are Present<br>
+->Download Attendence Sheet Of Given Date<br>
 
 # ScreenShots
 -------------------------<br>
